@@ -4,4 +4,4 @@ Questa sarebbe una modifica importante! xD
 
 
 
-Questa e una modifica di sviluppo
+Questa è una modifica di sviluppo
